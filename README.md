@@ -2,4 +2,4 @@
 
 These are basic sample projects I created while learning javascript
 
-Project 1 - Chnage background color
+Project 1 - Change background color
